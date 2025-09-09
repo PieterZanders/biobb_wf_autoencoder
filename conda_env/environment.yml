@@ -11,3 +11,7 @@ dependencies:
   - nglview
   - requests
   - matplotlib
+  - lightning
+  - pip 
+  - pip:
+    - mlcolvar
